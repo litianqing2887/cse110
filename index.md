@@ -1,4 +1,6 @@
 # Frank Li
+<img src=materials/profile.jpg height="50%" width="50%">
+
 ## Basic Information
 **Second-year Math-CS student in ERC**
 > To be, or not to be, that is the question. 
