@@ -1,6 +1,5 @@
 # Frank Li
-![Photo](materials/profile.jpg)
-<img src=materials/profile.jpg height="50%" width="50%">
+<img src="https://github.com/litianqing2887/cse110/blob/gitignore/materials/profile.jpg" height="50%" width="50%">
 
 ## Basic Information
 **Second-year Math-CS student in ERC**
