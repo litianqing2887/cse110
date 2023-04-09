@@ -1,4 +1,5 @@
 # Frank Li
+![Photo](materials/profile.jpg)
 <img src=materials/profile.jpg height="50%" width="50%">
 
 ## Basic Information
