@@ -1,6 +1,11 @@
 # Frank Li
 ![Photo](materials/profile.jpg)
 
+## Contents
+- [Basic Info](https://github.com/litianqing2887/cse110/blob/gitignore/index.md#basic-information)
+- [As a Programmer](https://github.com/litianqing2887/cse110/blob/gitignore/index.md#as-a-programmer)
+- [Personal Life](https://github.com/litianqing2887/cse110/blob/gitignore/index.md#personal-life)
+
 ## Basic Information
 **Second-year Math-CS student in ERC**
 > To be, or not to be, that is the question. 
